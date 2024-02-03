@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Junior
 ========================================================================================================================================
 
-Analista de dados | Analista MIS | DataScience
+Analista de dados | Analista MIS | DataScience | Data Engineer
 ----------------------------------------------
 
 Analista de MIS com Experiência em Análise de Dados | Big Data | ETL | VBA | Excel | SQL | Python | Power BI | Business Intelligence (BI) | Locker Studio | Solucionador de Problemas Sou um dedicado Analista de MIS com sólida experiência em análise de dados, big data, processos ETL, automação VBA, proficiência em Excel, habilidades avançadas em SQL e programação avançada em Python. Especializo-me na criação de processos ETL em Python para extrair, transformar e carregar dados de forma eficiente. Além disso, tenho expertise em utilizar o Power BI para visualização de dados e Business Intelligence (BI) para orientar tomadas de decisões baseadas em dados. Também sou proficiente no uso do Locker Studio para análise e visualização de dados adicionais. Minha paixão está em resolver problemas complexos e transformar dados em insights acionáveis. Com um histórico de entrega de soluções orientadas por dados e otimização de processos de negócios, prospero em ambientes dinâmicos e desafiadores. Vamos nos conectar e explorar novas oportunidades no mundo da análise de dados! 
